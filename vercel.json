@@ -1,24 +1,4 @@
 {
   "cleanUrls": true,
-  "functions": {
-    "api/gap.js": {
-      "memory": 256,
-      "maxDuration": 20
-    },
-    "api/watch.js": {
-      "memory": 128,
-      "maxDuration": 10
-    }
-  },
-  "headers": [
-    {
-      "source": "/api/(.*)",
-      "headers": [
-        {
-          "key": "Access-Control-Allow-Origin",
-          "value": "*"
-        }
-      ]
-    }
-  ]
+  "headers": [{ "source": "/api/(.*)", "headers": [{ "key": "Access-Control-Allow-Origin", "value": "*" }] }]
 }
