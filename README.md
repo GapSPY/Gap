@@ -1,7 +1,7 @@
 <p align="center"><img src="logo.png" width="104" alt="Gap"></p>
 <h1 align="center">Gap</h1>
 <p align="center"><b>The market’s closed. The chain isn’t.</b><br>Live premium / discount of every stock token on Robinhood Chain against the real market.</p>
-<p align="center"><a href="https://gap-bay.vercel.app">gap-bay.vercel.app</a></p>
+<p align="center"><a href="https://gapspy.app/">gapspy.app</a></p>
 
 <p align="center"><img src="og.png" width="720" alt="Gap — the market’s closed. The chain isn’t."></p>
 
